@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/webDesProject/static/css/main.84757403.chunk.css",
+    "main.js": "/webDesProject/static/js/main.947765c5.chunk.js",
+    "main.js.map": "/webDesProject/static/js/main.947765c5.chunk.js.map",
+    "runtime-main.js": "/webDesProject/static/js/runtime-main.aaa20a41.js",
+    "runtime-main.js.map": "/webDesProject/static/js/runtime-main.aaa20a41.js.map",
+    "static/js/2.715fe25f.chunk.js": "/webDesProject/static/js/2.715fe25f.chunk.js",
+    "static/js/2.715fe25f.chunk.js.map": "/webDesProject/static/js/2.715fe25f.chunk.js.map",
+    "index.html": "/webDesProject/index.html",
+    "precache-manifest.50df2ea9f500f386ee0bb870ddb38b41.js": "/webDesProject/precache-manifest.50df2ea9f500f386ee0bb870ddb38b41.js",
+    "service-worker.js": "/webDesProject/service-worker.js",
+    "static/css/main.84757403.chunk.css.map": "/webDesProject/static/css/main.84757403.chunk.css.map",
+    "static/js/2.715fe25f.chunk.js.LICENSE": "/webDesProject/static/js/2.715fe25f.chunk.js.LICENSE",
+    "static/media/MySLpromo.mp4": "/webDesProject/static/media/MySLpromo.1311b681.mp4",
+    "static/media/bg1.png": "/webDesProject/static/media/bg1.e8342f0f.png",
+    "static/media/dp.jpg": "/webDesProject/static/media/dp.1a260ced.jpg",
+    "static/media/logo.png": "/webDesProject/static/media/logo.475695db.png",
+    "static/media/nyeselkanloe.wav": "/webDesProject/static/media/nyeselkanloe.5e46323f.wav",
+    "static/media/profilebg.jpg": "/webDesProject/static/media/profilebg.13c6dbe4.jpg",
+    "static/media/sally.png": "/webDesProject/static/media/sally.7641a8df.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaa20a41.js",
+    "static/js/2.715fe25f.chunk.js",
+    "static/css/main.84757403.chunk.css",
+    "static/js/main.947765c5.chunk.js"
+  ]
+}
